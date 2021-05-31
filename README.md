@@ -14,5 +14,10 @@ Credited Course: [Coursera Projects](https://www.coursera.org/learn/tensorflow-b
 
 <hr>
 
-### The Fashion-MNIST library comes with 10 different articles of clothing. Each Output labeled 0-9.
+### The Fashion-MNIST library comes with 10 different articles of clothing. Below is a sample.
 ![](images/data.png)
+
+<hr>
+
+### I trained the model for 15 Epochs. I felt that 5 was too few, and 50 was over-fitting. As mentioned, the loss can be minimized further.
+![](images/training.png)
