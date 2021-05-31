@@ -11,6 +11,8 @@ This was a quick and dirty mini-project that I used to test my skills, so I acce
 Please view the entire Jupyter notebook [HERE](https://nbviewer.jupyter.org/github/gianmillare/Fashion-MNIST-ML-Image-Classification/blob/main/project.ipynb)!
 
 Credited Course: [Coursera Projects](https://www.coursera.org/learn/tensorflow-beginner-basic-image-classification/home/welcome)
+View other projects: [Data Science Projects](https://github.com/gianmillare/AI-ML-Data-Science-Projects)
+View my Course Notes: [Data Science Lessons](https://github.com/gianmillare/AI-ML-Data-Science-Guides)
 
 <hr>
 
