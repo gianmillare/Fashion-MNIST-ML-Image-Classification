@@ -21,3 +21,8 @@ Credited Course: [Coursera Projects](https://www.coursera.org/learn/tensorflow-b
 
 ### I trained the model for 15 Epochs. I felt that 5 was too few, and 50 was over-fitting. As mentioned, the loss can be minimized further.
 ![](images/training.png)
+
+<hr>
+
+### Below is a visualization of the predictions. 22/25 were correct, making 88% accuracy for this sample.
+![](images/plotting.png)
