@@ -14,3 +14,5 @@ Credited Course: [Coursera Projects](https://www.coursera.org/learn/tensorflow-b
 
 <hr>
 
+### The Fashion-MNIST library comes with 10 different articles of clothing. Each Output labeled 0-9.
+![](images/data.png)
